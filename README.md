@@ -1,7 +1,7 @@
 # telematic_data
 Feature Extraction Using Driver Telematic data
 
-This goal of this project is to build a classification model using driver telematic data for an insurance company. It requires performing feaure extraction on the telematic time series of driver trips to identify which trips are considered "intereting".
+This goal of this project is to build a classification model using driver telematic data for an insurance company. It requires performing feaure extraction on the telematic time series of driver trips to identify which trips are actuarially interesting.
 
 This repo contains:
 􏰀 A dataset of N “trip” csv data files: timeseries data recorded from car trips including the vehicle speed and heading at different points in time
